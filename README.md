@@ -40,11 +40,3 @@
   <img src="https://img.shields.io/static/v1?message=shinveloper99@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=silver_mooon&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SHINSUNGH/SHINSUNGH/output/snake.svg" alt="Snake animation" />
-
-###
