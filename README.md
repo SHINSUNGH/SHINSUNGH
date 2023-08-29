@@ -2,7 +2,8 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHINSUNGH&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHINSUNGH&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHINSUNGH&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHINSUNGH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
