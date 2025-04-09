@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! </h2>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHINSUNGH&show_icons=true&theme=gruvbox)
